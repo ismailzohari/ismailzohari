@@ -2,14 +2,6 @@
 ## 💻 About Me:
 <br>🧑🏻‍💻 currently developing **ESPA MARKET** — a scalable, full-featured e-commerce platform  <br>🎓 studying **Computer Engineering** at *Tehran North Branch, Islamic Azad University*  <br>🎯 graduate of **Maktab Sharif** bootcamp — focused on real-world full-stack development  <br>🛠 skilled in **Python**, **Django**, **PostgreSQL**, **Git**, **Linux**, and **Docker**  <br>🌐 experienced in frontend integration using **Tailwind CSS** and modern UI/UX practices  <br>🤖 passionate about **AI**, system design, and solving meaningful problems through code  <br>📚 continuously learning, building, and refining my craft as a software developer  <br>💬 open to collaboration, innovation, and impactful projects
 
-## ⚒️ Commits:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ismailzohari/ismailzohari/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ismailzohari/ismailzohari/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ismailzohari/ismailzohari/output/github-snake.svg" />
-</picture>
-
-
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ismailzohari) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ismailzohari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismailzohari) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30538373) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ismailzohari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ismailzohari@gmail.com) 
 
@@ -19,6 +11,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=ismailzohari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ismailzohari&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailzohari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+## ⚒️ Commits:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ismailzohari/ismailzohari/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ismailzohari/ismailzohari/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ismailzohari/ismailzohari/output/github-snake.svg" />
+</picture>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ismailzohari&theme=dark&no-frame=true&no-bg=true&margin-w=4)
