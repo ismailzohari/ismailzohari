@@ -1,6 +1,6 @@
 
 # 👨🏻‍💻 About Me:
-## 👋 About Me<br><br>🧑🏻‍💻 currently developing **ESPA MARKET** — a scalable, full-featured e-commerce platform  <br>🎓 studying **Computer Engineering** at *Tehran North Branch, Islamic Azad University*  <br>🎯 graduate of **Maktab Sharif** bootcamp — focused on real-world full-stack development  <br>🛠 skilled in **Python**, **Django**, **PostgreSQL**, **Git**, **Linux**, and **Docker**  <br>🌐 experienced in frontend integration using **Tailwind CSS** and modern UI/UX practices  <br>🤖 passionate about **AI**, system design, and solving meaningful problems through code  <br>📚 continuously learning, building, and refining my craft as a software developer  <br>💬 open to collaboration, innovation, and impactful projects<br>
+## 👋 About Me<br>🧑🏻‍💻 currently developing **ESPA MARKET** — a scalable, full-featured e-commerce platform  <br>🎓 studying **Computer Engineering** at *Tehran North Branch, Islamic Azad University*  <br>🎯 graduate of **Maktab Sharif** bootcamp — focused on real-world full-stack development  <br>🛠 skilled in **Python**, **Django**, **PostgreSQL**, **Git**, **Linux**, and **Docker**  <br>🌐 experienced in frontend integration using **Tailwind CSS** and modern UI/UX practices  <br>🤖 passionate about **AI**, system design, and solving meaningful problems through code  <br>📚 continuously learning, building, and refining my craft as a software developer  <br>💬 open to collaboration, innovation, and impactful projects
 
 ## ⚒️ Commits:
 <picture>
